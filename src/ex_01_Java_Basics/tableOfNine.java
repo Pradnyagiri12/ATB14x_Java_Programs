@@ -1,3 +1,5 @@
+package ex_01_Java_Basics;
+
 public class tableOfNine {
     public static void main(String[] args) {
         int number = 9;
