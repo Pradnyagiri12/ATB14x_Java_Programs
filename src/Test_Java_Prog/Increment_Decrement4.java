@@ -1,6 +1,6 @@
 package Test_Java_Prog;
 
-public class Increment_Decrement {
+public class Increment_Decrement4 {
 
     public static void main(String[] args) {
         int i = 10;

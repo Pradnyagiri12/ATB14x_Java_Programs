@@ -1,6 +1,6 @@
 package Test_Java_Prog;
 
-public class Type_casting_Prog {
+public class Type_casting_Prog5 {
     public static void main(String[] args) {
 
         // ===== Operator Precedence Example =====

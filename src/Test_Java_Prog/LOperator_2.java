@@ -1,6 +1,6 @@
 package Test_Java_Prog;
 
-public class LOperator_ {
+public class LOperator_2 {
     public static void main(String[] args) {
         int a = 10;
         int b = 3;

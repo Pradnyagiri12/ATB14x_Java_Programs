@@ -1,6 +1,6 @@
 package Test_Java_Prog;
 
-public class Com_Log_Demo {
+public class Com_Log_3 {
 
     public static void main(String[] args) {
         int x = 10;
