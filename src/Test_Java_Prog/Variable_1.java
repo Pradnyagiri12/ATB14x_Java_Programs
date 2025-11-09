@@ -1,6 +1,4 @@
 package Test_Java_Prog;
-
-
 public class Variable_1 {
     public static void main(String[] args) {
         // Integer variable
